@@ -38,4 +38,4 @@ Backend
 <img width="1724" height="1026" alt="Screenshot 2025-08-12 at 09 44 42" src="https://github.com/user-attachments/assets/65a13fda-bd51-4b3e-afed-527b6aae3fda" />
 
 --- 
-For more information, you can contact me at // kirubelswedin@gmail.com
+For more information, contact me at // kirubelswedin@gmail.com
